@@ -1,5 +1,7 @@
 # Hello, I'm Moussa Kalla 👋
 
+### **Data & Machine Learning Scientist**
+
 🎓 **Mathematics and Computer Science Graduate** 
 
 👨‍💻 **Passions & Expertise:**  
