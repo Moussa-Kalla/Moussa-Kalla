@@ -4,7 +4,7 @@
 
 🎓 Mathematics and Computer Science Graduate,  
 👨‍💻 Passionate about Mathematics, Data and AI driven applications  
-🇫🇷 Based in France  
+🌍 **Location:** Based in France 🇫🇷 
 
 ---
 ### **GitHub Stats**
