@@ -1,6 +1,6 @@
 # Hello, I'm Moussa Kalla 👋
 
-🎓 **Academic Background : Mathematics and Computer Science Graduate** 
+🎓 **Mathematics and Computer Science Graduate** 
 
 👨‍💻 **Passions & Expertise:**  
 - Advanced Mathematics and its applications.  
