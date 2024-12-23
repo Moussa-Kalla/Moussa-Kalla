@@ -1,11 +1,16 @@
 # Hello, I'm Moussa Kalla 👋
 
-### **Data/ML Scientist**
+🎓 **Academic Background:** 
+- Master's Degree in Data & AI. 
+- Master's Degree Mathematics Computer Science.  
+- Bachelor's in Applied Mathematics.  
 
-🎓 Mathematics and Computer Science Graduate,  
-👨‍💻 Passionate about Mathematics, Data and AI driven applications  
-🌍 **Location:** Based in France 🇫🇷 
+👨‍💻 **Passions & Expertise:**  
+- Advanced Mathematics and its applications.  
+- Data Science & Machine Learning for solving real-world problems.  
+- Quantitative analysis. 
 
+🌍 **Location:** Based in France 🇫🇷  
 ---
 ### **GitHub Stats**
 
