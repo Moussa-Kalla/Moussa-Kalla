@@ -1,9 +1,6 @@
 # Hello, I'm Moussa Kalla 👋
 
-🎓 **Academic Background:** 
-- Master's Degree in Data & AI. 
-- Master's Degree Mathematics & Computer Science.  
-- Bachelor's in Applied Mathematics.  
+🎓 **Academic Background : Mathematics and Computer Science Graduate** 
 
 👨‍💻 **Passions & Expertise:**  
 - Advanced Mathematics and its applications.  
