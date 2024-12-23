@@ -4,7 +4,7 @@
 
 🎓 **Mathematics & Computer Science Graduate** 
 
-👨‍💻 **Passions & Expertise:**  
+👨‍💻 **Passions & Expertise :**  
 - Advanced Mathematics and its applications.  
 - Data Science & Machine Learning for solving real-world problems.  
 - Quantitative analysis. 
