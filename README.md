@@ -10,7 +10,7 @@
 - Data Science & Machine Learning for solving real-world problems.  
 - Quantitative analysis. 
 
-🌍 **Location:** Based in France 🇫🇷  
+🌍 **Location :** Based in France 🇫🇷  
 
 ---
 
