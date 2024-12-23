@@ -2,7 +2,7 @@
 
 ### **Data & Machine Learning Scientist**
 
-🎓 **Mathematics and Computer Science Graduate** 
+🎓 **Mathematics & Computer Science Graduate** 
 
 👨‍💻 **Passions & Expertise:**  
 - Advanced Mathematics and its applications.  
