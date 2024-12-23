@@ -2,7 +2,7 @@
 
 🎓 **Academic Background:** 
 - Master's Degree in Data & AI. 
-- Master's Degree Mathematics Computer Science.  
+- Master's Degree Mathematics & Computer Science.  
 - Bachelor's in Applied Mathematics.  
 
 👨‍💻 **Passions & Expertise:**  
