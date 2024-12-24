@@ -28,7 +28,7 @@ I firmly believe in the law of large numbers. If you have a one in a million cha
 
 Formally, this is expressed as :
 
-$$\frac{1}{n} \sum_{i=1}^{n} X_i \xrightarrow{a.s.} \mu \quad \text{as} \quad n \to \infty$$
+$$\frac{1}{n} \sum_{i=1}^{n} X_i \xrightarrow{a.s.} \mu \quad \text{as} \quad n \to +\infty$$
 
 
 
