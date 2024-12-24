@@ -38,9 +38,8 @@ Je crois dur comme fer à la loi forte des grands nombres. Si vous avez une chan
 
 La loi forte des grands nombres (LFGB) est un théorème fondamental en probabilité. Elle stipule que, pour une suite de variables aléatoires indépendantes et identiquement distribuées \(X_1, X_2, \ldots, X_n\) avec une espérance \(\mu\), la moyenne empirique converge presque sûrement vers l'espérance \(\mu\) lorsque le nombre d'observations \(n\) tend vers l'infini.
 
-Formellement, cela s'écrit :
-$
-\frac{1}{n} \sum_{i=1}^{n} X_i \xrightarrow{a.s.} \mu \quad \text{lorsque} \quad n \to \infty
-$
+Formellement, ca se traduit par :
+
+$\frac{1}{n} \sum_{i=1}^{n} X_i \xrightarrow{a.s.} \mu \quad \text{lorsque} \quad n \to \infty$
 
 Cela signifie que, avec une probabilité de 1, la moyenne des \(X_i\) se rapproche de \(\mu\) à mesure que \(n\) augmente.
