@@ -24,9 +24,10 @@
 
 ## My philosophy
 
-Je crois dur comme fer à la loi forte des grands nombres. Si vous avez une chance sur un million de réussir quelque chose, tentez votre chance 10 million de fois, vous allez réussir en moyenne 10 fois.
+I firmly believe in the law of large numbers. If you have a one in a million chance of succeeding at something, try it 10 million times, and you will succeed on average 10 times.
 
-Formellement cela se traduit par : 
+Formally, this is expressed as:
 
-$\frac{1}{n} \sum_{i=1}^{n} X_i \xrightarrow{a.s.} \mu \quad \text{lorsque} \quad n \to \infty$
+
+\frac{1}{n} \sum_{i=1}^{n} X_i \xrightarrow{a.s.} \mu \quad \text{as} \quad n \to \infty
 
