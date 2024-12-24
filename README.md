@@ -26,7 +26,7 @@
 
 I firmly believe in the law of large numbers. If you have a one in a million chance of succeeding at something, try it 10 million times, and you will succeed on average 10 times.
 
-Formally, this is expressed as:
+Formally, this is expressed as :
 
 $$\frac{1}{n} \sum_{i=1}^{n} X_i \xrightarrow{a.s.} \mu \quad \text{as} \quad n \to \infty$$
 
