@@ -27,8 +27,6 @@
 Je crois dur comme fer à la loi forte des grands nombres. Si vous avez une chance sur un million de réussir quelque chose, essayez-la un million de fois, vous allez la réussir en moyenne une fois.
 
 Formellement, cela s'écrit :
-$$
-\frac{1}{n} \sum_{i=1}^{n} X_i \xrightarrow{a.s.} \mu \quad \text{lorsque} \quad n \to \infty
-$$
+$\frac{1}{n} \sum_{i=1}^{n} X_i \xrightarrow{a.s.} \mu \quad \text{lorsque} \quad n \to \infty$
 
 Cela signifie que, avec une probabilité de 1, la moyenne des \(X_i\) se rapproche de \(\mu\) à mesure que \(n\) augmente.
