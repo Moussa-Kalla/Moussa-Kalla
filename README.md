@@ -28,7 +28,7 @@
 
 ---
 
-## My Philosophy
+## My Philosophy :
 
 I firmly believe in the law of large numbers. If you have a one in a million chance of succeeding at something, try it 10 million times, and you will succeed on average 10 times.
 
