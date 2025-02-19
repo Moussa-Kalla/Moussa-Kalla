@@ -1,4 +1,4 @@
-## Hello, I'm Moussa Kalla 
+## Hi, I'm Moussa Kalla 
 
 ### **Data & Machine Learning Scientist**
 
