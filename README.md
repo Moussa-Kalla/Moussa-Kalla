@@ -11,9 +11,9 @@
 
 **Location:** Based in France 🇫🇷  
 --
-**My resume** : 
+**My resume** :  
 <details>
-  <summary>Show</summary>
+  <summary><a href="#">Show</a></summary>
 
   ![Mon CV](https://github.com/Moussa-Kalla/Mes-CVs/blob/main/assets/Mon_CV.png?raw=true)
 
