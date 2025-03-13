@@ -10,8 +10,16 @@
 - Quantitative Analysis 
 
 **Location:** Based in France 🇫🇷  
+--
+**My resume** : 
+<details>
+  <summary>Show</summary>
 
-[⬇️ My resume](https://github.com/Moussa-Kalla/Mes-CVs/raw/main/Mon_CV.pdf)
+  ![Mon CV](https://github.com/Moussa-Kalla/Mes-CVs/blob/main/assets/Mon_CV.png?raw=true)
+
+</details> 
+
+[⬇️ Download](https://github.com/Moussa-Kalla/Mes-CVs/raw/main/Mon_CV.pdf)
 
 ### **GitHub Stats**
 
