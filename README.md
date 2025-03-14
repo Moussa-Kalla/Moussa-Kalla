@@ -7,7 +7,8 @@
 **Passions & Expertise:**  
 - Advanced Mathematics and its applications  
 - Data Science & Machine Learning for solving real-world problems  
-- Quantitative Analysis 
+- Quantitative Analysis
+
 **My resume** :  
 <details>
   <summary><font color="#0969DA"><u>Show</u></font></summary>
