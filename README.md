@@ -1,6 +1,6 @@
 ### Hi, I'm Moussa Kalla 
 
-### **Data & Machine Learning Scientist**
+### Data & Machine Learning Scientist
 
 🎓 **Mathematics & Computer Science Graduate** 
 
@@ -19,7 +19,7 @@
 
 [⬇️ Download](https://github.com/Moussa-Kalla/Mes-CVs/raw/main/Mon_CV.pdf)
 
-**Location:** Based in France 🇫🇷 
+**Location :** Based in France 🇫🇷 
 
 **GitHub Stats**
 
