@@ -16,7 +16,7 @@
 
 <details>
 
-<summary><font color="#66FF66"><u>Show</u></font></summary>
+<summary><font color="#0969DA"><u>Show</u></font></summary>
 
 ![Mon CV](https://github.com/Moussa-Kalla/Mes-CVs/blob/main/assets/Mon_CV.png?raw=true)
 
