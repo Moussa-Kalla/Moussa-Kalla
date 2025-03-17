@@ -1,35 +1,34 @@
-<div align="left">
+<p align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66FF66&width=435&lines=Hi,+I'm+Moussa+Kalla" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66FF66&width=435&lines=Data+Scientist+•+ML +Engineer" alt="Typing SVG"
+</p>
 
-<pre>
-<font color="#00FF00">### Hi, I'm <font color="#FF0000">Moussa Kalla</font></font>
+<p style="color: #66FF66;"><strong>Mathematics &amp; Computer Science Graduate</strong></p>
 
-<font color="#00FF00">### Data & Machine Learning Scientist</font>
+<p style="color: #66FF66;"><strong>Passions &amp; Expertise :</strong></p>
+<ul>
+<li style="color: #66FF66;">Advanced Mathematics and its applications</li>
+<li style="color: #66FF66;">Data Science &amp; Machine Learning for solving real-world problems</li>
+<li style="color: #66FF66;">Quantitative Analysis</li>
+</ul>
 
-🎓 <font color="#00FF00">**Mathematics & Computer Science Graduate**</font>
+<p style="color: #66FF66;"><strong>My resume</strong> :</p>
 
-<font color="#00FF00">**Passions & Expertise:**</font>  
-- <font color="#00FF00">Advanced Mathematics and its applications</font>  
-- <font color="#00FF00">Data Science & Machine Learning for solving real-world problems</font>  
-- <font color="#00FF00">Quantitative Analysis</font>
-
-<font color="#00FF00">**My resume** :</font>  
 <details>
-  <summary><font color="#0969DA"><u>Show</u></font></summary>
 
-  ![Mon CV](https://github.com/Moussa-Kalla/Mes-CVs/blob/main/assets/Mon_CV.png?raw=true)
+<summary><font color="#66FF66"><u>Show</u></font></summary>
+
+![Mon CV](https://github.com/Moussa-Kalla/Mes-CVs/blob/main/assets/Mon_CV.png?raw=true)
 
 </details>
 
-[⬇️ <font color="#FF0000">Download</font>](https://github.com/Moussa-Kalla/Mes-CVs/raw/main/Mon_CV.pdf)
+<p style="color: #66FF66;"><a href="https://github.com/Moussa-Kalla/Mes-CVs/raw/main/Mon_CV.pdf"><font color="#FF6666">⬇️ Download</font></a></p>
 
-<font color="#00FF00">**Location :**</font> <font color="#00FF00">Based in France 🇫🇷</font>
+<p style="color: #66FF66;"><strong>Location :</strong> Based in France 🇫🇷</p>
 
-<font color="#00FF00">**GitHub Stats**</font>
+<p style="color: #66FF66;"><strong>GitHub Stats</strong></p>
 
 <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moussa-Kalla&layout=compact&langs_count=7&border_color=00FF00&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=FF0000" alt="Top Languages"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Moussa-Kalla&show_icons=true&border_color=00FF00&bg_color=000000&title_color=00FF00&icon_color=FF0000&text_color=00FF00&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</div>
-</pre>
-
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moussa-Kalla&layout=compact&langs_count=7&border_color=000000&bg_color=000000&title_color=66FF66&text_color=FF6666&icon_color=66FF66" alt="Top Languages"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Moussa-Kalla&show_icons=true&border_color=000000&bg_color=000000&title_color=66FF66&icon_color=66FF66&text_color=FF6666&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </div>
