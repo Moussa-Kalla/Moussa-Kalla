@@ -1,8 +1,8 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66FF66&width=435&lines=Hi,+I'm+Moussa+Kalla" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66FF66&width=435&lines=Data+Scientist+•+ML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=66FF66&size=24&width=435&lines=Moussaka+là" alt="Typing SVG" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=66FF66&size=20&width=435&lines=Data+Scientist+•+ML+Engineer" alt="Typing SVG" />
 </p>
-
 
 <p style="color: #66FF66;"><strong>Mathematics &amp; Computer Science Graduate</strong></p>
 
@@ -16,18 +16,21 @@
 <p style="color: #66FF66;"><strong>My resume</strong> :</p>
 
 <details>
-
-<summary><font color="#0969DA"><u>Show</u></font></summary>
+<summary><font color="#66FF66"><u>Show</u></font></summary>
 
 ![Mon CV](https://github.com/Moussa-Kalla/Mes-CVs/blob/main/assets/Mon_CV.png?raw=true)
 
 </details>
 
-<p style="color: #66FF66;"><a href="https://github.com/Moussa-Kalla/Mes-CVs/raw/main/Mon_CV.pdf"><font color="#FF6666">⬇️ Download</font></a></p>
+<p style="color: #66FF66;">
+  <a href="https://github.com/Moussa-Kalla/Mes-CVs/raw/main/Mon_CV.pdf">
+    <font color="#FF6666">⬇️ Download</font>
+  </a>
+</p>
 
 <p style="color: #66FF66;"><strong>Location :</strong> Based in France 🇫🇷</p>
 
-<p style="color: #66FF66;"><strong>GitHub Stats</strong></p>
+<p style="color: #66FF66;"><strong>GitHub Stats : </strong></p>
 
 <div>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moussa-Kalla&layout=compact&langs_count=7&border_color=000000&bg_color=000000&title_color=66FF66&text_color=FF6666&icon_color=66FF66" alt="Top Languages"/>
