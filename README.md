@@ -1,7 +1,8 @@
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66FF66&width=435&lines=Hi,+I'm+Moussa+Kalla" alt="Typing SVG" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66FF66&width=435&lines=Data+Scientist+•+ML +Engineer" alt="Typing SVG"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66FF66&width=435&lines=Hi,+I'm+Moussa+Kalla" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66FF66&width=435&lines=Data+Scientist+•+ML+Engineer" alt="Typing SVG" />
 </p>
+
 
 <p style="color: #66FF66;"><strong>Mathematics &amp; Computer Science Graduate</strong></p>
 
