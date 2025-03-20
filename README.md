@@ -24,8 +24,6 @@
   </a>
 </p>
 
-<p style="color: #66FF66;"><strong>Location :</strong> Based in France 🇫🇷</p>
-
 <p style="color: #66FF66;"><strong>GitHub Stats : </strong></p>
 
 <div>
