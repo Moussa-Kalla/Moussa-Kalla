@@ -1,8 +1,4 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=66FF66&size=24&width=435&lines=Hi,+I'm+Moussa+Kalla" alt="Typing SVG" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=66FF66&size=20&width=435&lines=Data+Scientist+•+ML+Engineer" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=1000&color=66FF66&width=435&lines=Hi%2C+I'am+Moussa+Kalla;Data+Scientist++%E2%80%A2+ML+Engineer" alt="Typing SVG" /></a>
 
 <p style="color: #66FF66;"><strong>Mathematics &amp; Computer Science Graduate</strong></p>
 
