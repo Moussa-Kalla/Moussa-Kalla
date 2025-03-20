@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=1000&color=66FF66&width=435&lines=Hi%2C+I'am+Moussa+Kalla;Data+Scientist++%E2%80%A2+ML+Engineer" alt="Typing SVG" /></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=1000&color=66FF66&width=435&lines=Hi%2C+I'am+Moussa+Kalla;Data+Scientist++%E2%80%A2+ML+Engineer" alt="Typing SVG" /></p>
 
 <p style="color: #66FF66;"><strong>Mathematics &amp; Computer Science Graduate</strong></p>
 
