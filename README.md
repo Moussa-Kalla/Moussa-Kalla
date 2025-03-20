@@ -9,8 +9,6 @@
 <li style="color: #66FF66;">Quantitative Analysis</li>
 </ul>
 
-<p style="color: #66FF66;"><strong>My resume</strong> :</p>
-
 <details>
 <summary><font color="#66FF66"><u>Show my resume</u></font></summary>
 
