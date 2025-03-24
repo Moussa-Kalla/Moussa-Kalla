@@ -22,6 +22,8 @@
   </a>
 </p>
 
+[![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/372372861/badge.svg)](https://github.com/Moussa-Kalla/my-profile-view-counter/blob/master/readme/372372861/week.md)
+
 <div>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Moussa-Kalla&show_icons=true&border_color=000000&bg_color=00000000&title_color=66FF66&icon_color=66FF66&text_color=FF6666&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moussa-Kalla&layout=compact&langs_count=7&border_color=000000&bg_color=00000000&title_color=66FF66&text_color=FF6666&icon_color=66FF66" alt="Top Languages"/>
