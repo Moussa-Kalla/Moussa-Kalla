@@ -10,7 +10,7 @@
 </ul>
 
 <details>
-<summary><font color="#66FF66"><u>Show my resume</u></font></summary>
+<summary><font color="#66FF66"><u>Show resume</u></font></summary>
 
 ![Mon CV](https://github.com/Moussa-Kalla/Mes-CVs/blob/main/assets/Mon_CV.png?raw=true)
 
@@ -18,7 +18,7 @@
 
 <p style="color: #66FF66;">
   <a href="https://github.com/Moussa-Kalla/Mes-CVs/raw/main/Mon_CV.pdf">
-    <font color="#FF6666">⬇️ Download my resume</font>
+    <font color="#FF6666">⬇️ Download</font>
   </a>
 </p>
 
