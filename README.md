@@ -17,7 +17,7 @@
 </details>
 
 <p style="color: #66FF66;">
-  <a href="https://github.com/Moussa-Kalla/Mes-CVs/raw/main/Mon_CV.pdf">
+  <a href="https://github.com/Moussa-Kalla/Mes-CVs/raw/main/CV_Moussa-Kalla_ENG.pdf">
     <font color="#FF6666">⬇️ Download</font>
   </a>
 </p>
